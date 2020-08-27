@@ -15,7 +15,7 @@ ReactJS       #########
 GraphQL       ########
 Apollo Server ########
 TypeScript    #########
-Docker        #######
+Docker        ########
 ```
 ### Languages
 
