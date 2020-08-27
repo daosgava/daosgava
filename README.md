@@ -23,6 +23,6 @@ Jest          ######
 English (Advanced) 🇦🇺
 Spanish (Native Speaker) 🇨🇴
 
-Working at...😉
+Working at...
 
-[LinkedIn](https://www.linkedin.com/in/danielgarciavargas/)
+[My LinkedIn 🙂](https://www.linkedin.com/in/danielgarciavargas/)
