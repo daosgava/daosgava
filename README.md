@@ -16,7 +16,6 @@ GraphQL       ########
 Apollo Server ########
 TypeScript    #########
 Docker        #######
-Jest          ########
 ```
 ### Languages
 
