@@ -9,14 +9,14 @@ Experienced software developer with a degree in multimedia engineering, speciali
 ### Skills
 
 ``` 
-JavaScript    #######
-NodeJS        ######
-ReactJS       ######
-GraphQL       ######
-Apollo Server ######
-TypeScript    #######
-Docker        #####
-Jest          ######
+JavaScript    ##########
+NodeJS        #########
+ReactJS       #########
+GraphQL       ########
+Apollo Server ########
+TypeScript    #########
+Docker        #######
+Jest          ########
 ```
 ### Languages
 
