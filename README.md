@@ -20,8 +20,7 @@ Jest          ######
 ```
 ### Languages
 
-English (Advanced) 🇦🇺
-Spanish (Native Speaker) 🇨🇴
+English 🇦🇺 and Spanish(Native Speaker) 🇨🇴
 
 ### Working at...
 
