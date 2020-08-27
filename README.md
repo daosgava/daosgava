@@ -23,4 +23,4 @@ English 🇦🇺 and Spanish(Native Speaker) 🇨🇴
 
 ### Working at...
 
-My [LinkedIn](https://www.linkedin.com/in/danielgarciavargas/) profile 🙂!
+My [LinkedIn](https://www.linkedin.com/in/danielgarciavargas/) profile 🙂
