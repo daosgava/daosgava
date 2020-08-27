@@ -21,9 +21,8 @@ Jest          ######
 ### Languages
 
 English (Advanced) 🇦🇺
-
 Spanish (Native Speaker) 🇨🇴
 
-Working at...
+### Working at...
 
 [My LinkedIn](https://www.linkedin.com/in/danielgarciavargas/) 🙂
