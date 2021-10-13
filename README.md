@@ -1,6 +1,6 @@
 # Daniel o. GarcÍa V.
 
-```<> Software Developer </>```
+```<> Software Engineer </>```
 
 ## Profile 👨🏻‍💻
 
