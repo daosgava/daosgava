@@ -19,7 +19,7 @@ Docker        ########
 ```
 ### Languages
 
-English 🇦🇺 and Spanish(Native Speaker) 🇨🇴
+English 🇦🇺  and Spanish(Native Speaker) 🇨🇴
 
 ### Working at...
 
