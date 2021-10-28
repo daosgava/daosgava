@@ -1,4 +1,4 @@
-# Daniel o. GarcÍa V.
+# Daniel GarcÍa
 
 ```<> Software Engineer </>```
 
