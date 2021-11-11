@@ -4,7 +4,7 @@
 
 ## Profile 👨🏻‍💻
 
-Experienced software developer with a degree in multimedia engineering, specialist in project integral management and more than 8 years of experience configuring, building and supporting applications written in Javascript on the client and server side. Proficient in communicating and working side by side with other teams around the world.
+Experienced software developer with a degree in multimedia engineering, specialist in project integral management and more than 7 years of experience configuring, building and supporting applications written in Javascript on the client and server side. Proficient in communicating and working side by side with other teams around the world.
 
 ### Skills
 
