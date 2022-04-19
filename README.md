@@ -1,6 +1,6 @@
 # Daniel GarcÍa
 
-```<> Software Engineer </>```
+```<> Software Developer </>```
 
 ## Profile 👨🏻‍💻
 
