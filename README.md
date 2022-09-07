@@ -11,10 +11,10 @@ Experienced software developer with a degree in multimedia engineering, speciali
 ``` 
 JavaScript    8 years
 NodeJS        5 years
-ReactJS       4 years
+ReactJS       5 years
 GraphQL       4 years
-Docker        4 years
 VueJS         3 years
+Typescript    2 years
 ```
 ### Languages
 
