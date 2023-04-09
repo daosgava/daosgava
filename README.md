@@ -4,7 +4,7 @@
 
 ## Profile 👨🏻‍💻
 
-Experienced software developer with a degree in multimedia engineering and more than eight years of experience configuring, building, and supporting applications written in Javascript on the client and server side. In recent years, my technology stack has evolved to include React, NodeJS, Typescript, and GraphQL.
+Experienced software developer with a degree in multimedia engineering and more than eight years of experience configuring, building, and supporting applications written in Javascript on the client and server side. In recent years, my technology stack has evolved to include React, Vue, NodeJS, Typescript, and GraphQL.
 
 I'm proficient in communicating and collaborating with other teams from around the world, and I'm a very disciplined and hard worker who's constantly willing to help and learn from others.
 
