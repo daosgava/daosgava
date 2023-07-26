@@ -1,4 +1,4 @@
-# Daniel GarcÍa
+# Daniel Garcia
 
 ```<> Software Developer </>```
 
