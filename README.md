@@ -5,11 +5,11 @@ Experienced software developer with a degree in multimedia engineering and over 
 ### Skills
 
 ``` 
-JavaScript    8 years
-NodeJS        5 years
-ReactJS       5 years
-VueJS         3 years
-Typescript    3 years
+JavaScript
+NodeJS
+ReactJS
+VueJS
+Typescript
 ```
 ### Languages
 
