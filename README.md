@@ -16,9 +16,8 @@ Due to the continuous evolution of standards and technologies, I have become an 
 JavaScript    8 years
 NodeJS        5 years
 ReactJS       5 years
-GraphQL       4 years
 VueJS         3 years
-Typescript    2 years
+Typescript    3 years
 ```
 ### Languages
 
