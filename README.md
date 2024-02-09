@@ -4,7 +4,7 @@ Experienced software developer with a degree in multimedia engineering and over 
 
 ### Skills
 
-JavaScript · TypeScript · Node.js · React.js · Vue.js
+JavaScript · TypeScript · Node.js · React.js · Vue.js · Docker · Kubernetes · Terraform
 
 ### Languages
 
